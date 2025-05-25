@@ -1,16 +1,19 @@
-## Hi there 👋
+Imran Hassan - Website Developer
+Welcome to my GitHub profile!
+I am Imran Hassan, a passionate website developer dedicated to building modern, responsive, and user-friendly websites.
 
-<!--
-**Imran-has/Imran-has** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me:
+GitHub: https://github.com/yourusername
 
-Here are some ideas to get you started:
+LinkedIn: https://linkedin.com/in/yourprofile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Instagram: https://instagram.com/yourusername
+
+About Me
+Skilled in HTML, CSS, JavaScript, React, Next.js, and more.
+
+Passionate about clean code and great UX/UI design.
+
+Always learning and exploring new technologies.
+
+Feel free to explore my projects and reach out!
